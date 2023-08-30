@@ -37,3 +37,14 @@ This is a freelancer project. The app was developed to control travel which is m
 * **JetPack Compose**
 * **MVVM**
 
+# MyChat App
+![lhs app image](chat.jpg)
+
+I found an excellent tutorial on YouTube made by Chirag Kachhadiya. But was entirely in Java. Then I challenged myself to follow this tutorial. And bring everything to Kotlin. I also made some improvements. We can edit messages, delete them, and send pictures. And we can zoom in and zoom out with finger pincers and download these pictures.
+
+### Technology and Tools
+* **Kotlin** 
+* **MVVM**
+* **Retrofit**
+* **FireBase**
+* **Share Preferences**
