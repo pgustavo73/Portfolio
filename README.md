@@ -3,13 +3,14 @@
 
 
 # Tic Tac Toe
-![alt text](tictoctoe.jpg)
+![tic tac toe app image](tictoctoe.jpg)
 
 This project is the classic tic-tac-toe game of X and O, who take turns marking the spaces that align the X or O vertically, horizontally, and diagonally wins. this was deployed on Google Play.
 * **Kotlin** 
 * **UI-XML**
 
 ![alt text](googleplay.jpg)
+[Download](https://play.google.com/store/apps/details?id=com.pgustavo.hashgame)
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
