@@ -10,6 +10,7 @@ This project is the classic tic-tac-toe game of X and O, who take turns marking 
 * **UI-XML**
 
 ![alt text](googleplay.jpg)
+
 [Download](https://play.google.com/store/apps/details?id=com.pgustavo.hashgame)
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
