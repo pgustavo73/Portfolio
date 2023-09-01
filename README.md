@@ -51,3 +51,21 @@ I found an excellent tutorial on YouTube made by Chirag Kachhadiya. But was enti
 
 ![alt text](Git.png)
 [Checkout the code](https://github.com/pgustavo73/mychatapp)
+
+# Star Wars Trivia App
+![lhs app image](swt.jpg)
+
+With this app, I join two of my passions. Develop Android apps and Star Wars. This app has the objective of giving more knowledge about the Star Wars saga through a trivia game while having fun. I simulate an API behavior through Github-pages, an API of Star Wars Questions that has been consumed by this Trivia App.
+
+### Technology and Tools
+* **Kotlin** 
+* **MVVM**
+* **Retrofit**
+* **Coroutines Flow**
+* **Dagger Hilt**
+* **Share Preferences**
+* **Material 3**
+* **Jetpack Compose**
+
+![alt text](Git.png)
+[Checkout the code](https://github.com/pgustavo73/Star-Wars-Trivia)
