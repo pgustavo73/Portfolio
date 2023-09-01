@@ -23,7 +23,7 @@ This project was developed in kotlin using webview. For SBCPA "Sociedade Brasile
 * **Webview**
 
 [Available on](https://play.google.com/store/apps/details?id=com.pgustavo.sbcpa)
-<center>![alt text](googleplay.jpg)</center>
+![alt text](googleplay.jpg)
 
 
 
