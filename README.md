@@ -12,7 +12,7 @@ This project is the classic tic-tac-toe game of X and O, who take turns marking 
 <center>
 <a href="https://play.google.com/store/apps/details?id=com.pgustavo.hashgame"><img src="googleplay.jpg"></a>
 </center>
-
+<hr>
 
 # SBCPA
 ![sbcpa app image](sbcpa.jpg)
@@ -25,7 +25,7 @@ This project was developed in kotlin using webview. For SBCPA "Sociedade Brasile
 <center>
 <a href="https://play.google.com/store/apps/details?id=com.pgustavo.sbcpa"><img src="googleplay.jpg"></a>
 </center>
-
+<hr>
 
 
 # LHS Control
@@ -37,6 +37,7 @@ This is a freelancer project. The app was developed to control travel which is m
 * **Kotlin** 
 * **JetPack Compose**
 * **MVVM**
+<hr>
 
 # MyChat App
 ![lhs app image](chat.jpg)
@@ -52,7 +53,7 @@ I found an excellent tutorial on YouTube made by Chirag Kachhadiya. But was enti
 <center>
 <a href="https://github.com/pgustavo73/mychatapp"><img src="Git.png"></a>
 </center>
-
+<hr>
 
 # Star Wars Trivia App
 ![lhs app image](swt.jpg)
@@ -71,7 +72,7 @@ With this app, I join two of my passions. Develop Android apps and Star Wars. Th
 <center>
 <a href="https://github.com/pgustavo73/Star-Wars-Trivia"><img src="Git.png"></a>
 </center>
-
+<hr>
 
 # Marvel App
 ![lhs app image](marvel.jpg)
@@ -88,7 +89,7 @@ This app consumes data from a Marvel API. To show a list of Marvel characters. I
 <center>
 <a href="https://github.com/pgustavo73/MarvelApp"><img src="Git.png"></a>
 </center>
-
+<hr>
 
 # Weather App
 ![lhs app image](weather.jpg)
@@ -104,7 +105,7 @@ App shows the current weather of 5 cities from Open Weather API. Users can add c
 <center>
 <a href="https://github.com/pgustavo73/MyWeatherApp"><img src="Git.png"></a>
 </center>
-
+<hr>
 
 # To Do App
 ![lhs app image](todo.jpg)
