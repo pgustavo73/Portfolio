@@ -100,3 +100,17 @@ App shows the current weather of 5 cities from Open Weather API. Users can add c
 
 ![alt text](Git.png)
 [Checkout the code](https://github.com/pgustavo73/MyWeatherApp)
+
+# To Do App
+![lhs app image](todo.jpg)
+
+This is a To-do app in which we can schedule a task, and when the time comes a notification is sent to warn the user to do the task.
+
+### Technology and Tools
+* **Kotlin** 
+* **MVVM**
+* **Room Data Base**
+* **Push notification**
+
+![alt text](Git.png)
+[Checkout the code](https://github.com/pgustavo73/ToDoApplication)
