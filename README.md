@@ -117,6 +117,7 @@ This is a To-do app in which we can schedule a task, and when the time comes a n
 
 
 <hr>
+
 <center>
 <a href="https://www.linkedin.com/in/paulogustavo73/"><img src="linkedin.png"></a>
   <a href="https://wa.me/+5581988696763"><img src="whatsapp.png"></a>
