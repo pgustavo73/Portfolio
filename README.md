@@ -114,3 +114,8 @@ This is a To-do app in which we can schedule a task, and when the time comes a n
 
 ![alt text](Git.png)
 [Checkout the code](https://github.com/pgustavo73/ToDoApplication)
+
+📫 How to reach me:
+- 🎯 **Linkedin:** https://www.linkedin.com/in/paulogustavo73/
+- 🎯 **Email:** p_gustavo@outlook.com
+- 🎯 **Phone:** <a href="https://wa.me/+5581988696763"> Send a message </a>
