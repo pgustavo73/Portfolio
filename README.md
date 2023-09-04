@@ -85,3 +85,18 @@ This app consumes data from a Marvel API. To show a list of Marvel characters. I
 
 ![alt text](Git.png)
 [Checkout the code](https://github.com/pgustavo73/MarvelApp)
+
+# Weather App
+![lhs app image](weather.jpg)
+
+App shows the current weather of 5 cities from Open Weather API. Users can add cities and remove them as well and see weather details.
+
+### Technology and Tools
+* **Kotlin** 
+* **MVVM**
+* **Retrofit**
+* **Koin**
+* **Room Data Base**
+
+![alt text](Git.png)
+[Checkout the code](https://github.com/pgustavo73/MyWeatherApp)
