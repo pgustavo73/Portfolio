@@ -9,9 +9,10 @@ This project is the classic tic-tac-toe game of X and O, who take turns marking 
 
 ### Technology and Tools
 * **Kotlin** 
+<center>
+<a href="https://play.google.com/store/apps/details?id=com.pgustavo.hashgame"><img src="googleplay.jpg"></a>
+</center>
 
-[Available on](https://play.google.com/store/apps/details?id=com.pgustavo.hashgame)
-![alt text](googleplay.jpg)
 
 # SBCPA
 ![sbcpa app image](sbcpa.jpg)
@@ -21,9 +22,9 @@ This project was developed in kotlin using webview. For SBCPA "Sociedade Brasile
 ### Technology and Tools
 * **Kotlin** 
 * **Webview**
-
-[Available on](https://play.google.com/store/apps/details?id=com.pgustavo.sbcpa)
-![alt text](googleplay.jpg)
+<center>
+<a href="https://play.google.com/store/apps/details?id=com.pgustavo.sbcpa"><img src="googleplay.jpg"></a>
+</center>
 
 
 
@@ -48,9 +49,10 @@ I found an excellent tutorial on YouTube made by Chirag Kachhadiya. But was enti
 * **Retrofit**
 * **FireBase**
 * **Share Preferences**
+<center>
+<a href="https://github.com/pgustavo73/mychatapp"><img src="Git.png"></a>
+</center>
 
-![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/mychatapp)
 
 # Star Wars Trivia App
 ![lhs app image](swt.jpg)
@@ -66,9 +68,10 @@ With this app, I join two of my passions. Develop Android apps and Star Wars. Th
 * **Share Preferences**
 * **Material 3**
 * **Jetpack Compose**
+<center>
+<a href="https://github.com/pgustavo73/Star-Wars-Trivia"><img src="Git.png"></a>
+</center>
 
-![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/Star-Wars-Trivia)
 
 # Marvel App
 ![lhs app image](marvel.jpg)
@@ -82,9 +85,10 @@ This app consumes data from a Marvel API. To show a list of Marvel characters. I
 * **Hilt**
 * **Room Data Base**
 * **Coroutines**
+<center>
+<a href="https://github.com/pgustavo73/MarvelApp"><img src="Git.png"></a>
+</center>
 
-![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/MarvelApp)
 
 # Weather App
 ![lhs app image](weather.jpg)
@@ -97,7 +101,9 @@ App shows the current weather of 5 cities from Open Weather API. Users can add c
 * **Retrofit**
 * **Koin**
 * **Room Data Base**
-
+<center>
+<a href="https://github.com/pgustavo73/MyWeatherApp"><img src="Git.png"></a>
+</center>
 ![alt text](Git.png)
 [Checkout the code](https://github.com/pgustavo73/MyWeatherApp)
 
@@ -111,17 +117,15 @@ This is a To-do app in which we can schedule a task, and when the time comes a n
 * **MVVM**
 * **Room Data Base**
 * **Push notification**
-
-![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/ToDoApplication)
-
+<center>
+<a href="https://github.com/pgustavo73/ToDoApplication"><img src="Git.png"></a>
+</center>
 
 <hr>
-
+<br>
 <center>
 <a href="https://www.linkedin.com/in/paulogustavo73/"><img src="linkedin.png"></a>
   <a href="https://wa.me/+5581988696763"><img src="whatsapp.png"></a>
   <a href="https://github.com/pgustavo73"><img src="github.png"></a>
   <a href="p_gustavo@outlook.com"><img src="outlook.png"></a>
 </center>
-
