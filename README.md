@@ -116,8 +116,10 @@ This is a To-do app in which we can schedule a task, and when the time comes a n
 [Checkout the code](https://github.com/pgustavo73/ToDoApplication)
 
 
+<center>
 <a href="https://www.linkedin.com/in/paulogustavo73/"><img src="linkedin.png"></a>
 <a href="https://wa.me/+5581988696763"><img src="whatsapp.png"></a>
 <a href="https://github.com/pgustavo73"><img src="github.png"></a>
 <a href="p_gustavo@outlook.com"><img src="outlook.png"></a>
+</center>
 
