@@ -68,4 +68,20 @@ With this app, I join two of my passions. Develop Android apps and Star Wars. Th
 * **Jetpack Compose**
 
 ![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/Star-Wars-Trivia)
+
+# Marvel App
+![lhs app image](marvel.jpg)
+
+This app consumes data from a Marvel API. To show a list of Marvel characters. I also use the new features in Material Design 3, allowing an application's user interface to be themed dynamically based on the user's wallpaper. Also, you can favorite the characters.
+
+### Technology and Tools
+* **Kotlin** 
+* **MVVM**
+* **Retrofit**
+* **Hilt**
+* **Room Data Base**
+* **Coroutines**
+
+![alt text](Git.png)
+[Checkout the code](
+[Checkout the code](https://github.com/pgustavo73/MarvelApp)
