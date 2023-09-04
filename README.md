@@ -71,6 +71,7 @@ With this app, I join two of my passions. Develop Android apps and Star Wars. Th
 
 # Marvel App
 ![lhs app image](marvel.jpg)
+[Checkout the code](https://github.com/pgustavo73/Star-Wars-Trivia)
 
 This app consumes data from a Marvel API. To show a list of Marvel characters. I also use the new features in Material Design 3, allowing an application's user interface to be themed dynamically based on the user's wallpaper. Also, you can favorite the characters.
 
@@ -83,5 +84,4 @@ This app consumes data from a Marvel API. To show a list of Marvel characters. I
 * **Coroutines**
 
 ![alt text](Git.png)
-[Checkout the code](
 [Checkout the code](https://github.com/pgustavo73/MarvelApp)
