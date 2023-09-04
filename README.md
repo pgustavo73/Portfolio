@@ -104,8 +104,7 @@ App shows the current weather of 5 cities from Open Weather API. Users can add c
 <center>
 <a href="https://github.com/pgustavo73/MyWeatherApp"><img src="Git.png"></a>
 </center>
-![alt text](Git.png)
-[Checkout the code](https://github.com/pgustavo73/MyWeatherApp)
+
 
 # To Do App
 ![lhs app image](todo.jpg)
@@ -122,7 +121,6 @@ This is a To-do app in which we can schedule a task, and when the time comes a n
 </center>
 
 <hr>
-<br>
 <center>
 <a href="https://www.linkedin.com/in/paulogustavo73/"><img src="linkedin.png"></a>
   <a href="https://wa.me/+5581988696763"><img src="whatsapp.png"></a>
