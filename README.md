@@ -1,6 +1,7 @@
-# Portfolio
-*Paulo Gustavo | Android Developer*
+My name is Paulo Gustavo and I'm a Mobile Android Developer graduated Information system by Faculdade Santa MAria in 2013.
+Since 2021,  I have been studying and doing my projects and have two apps on the Play Store.
 
+# Portfolio
 
 # Tic Tac Toe
 ![tic tac toe app image](tictoctoe.jpg)
