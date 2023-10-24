@@ -1,4 +1,4 @@
-* My name is Paulo Gustavo,  and I’m a Mobile Android Developer who graduated in Information Systems from Faculdade Santa Maria in 2013. Since 2021, I have been studying and doing my projects and have two apps on the Play Store.*
+*My name is Paulo Gustavo,  and I’m a Mobile Android Developer who graduated in Information Systems from Faculdade Santa Maria in 2013. Since 2021, I have been studying and doing my projects and have two apps on the Play Store.*
 
 # Portfolio
 
