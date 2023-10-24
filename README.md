@@ -1,4 +1,4 @@
-*My name is __Paulo Gustavo__,  and I’m a __Mobile Android Developer__ who graduated in ___Information Systems___ from Faculdade Santa Maria in 2013. Since 2021, I have been studying and doing my projects and have two apps on the Play Store.*
+*My name is __Paulo Gustavo__,  and I’m a __Mobile Android Developer__ who graduated in __Information Systems__ from Faculdade Santa Maria in 2013. Since 2021, I have been studying and doing my projects and have two apps on the Play Store.*
 
 # Portfolio
 
