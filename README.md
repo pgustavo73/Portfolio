@@ -1,6 +1,27 @@
-*My name is __Paulo Gustavo__,  and I’m a __Mobile Android Developer__ who graduated in __Information Systems__ from Faculdade Santa Maria in 2013. Since 2021, I have been studying and doing my projects and have two apps on the Play Store.*
+*My name is __Paulo Gustavo__,  and I’m a __Android Developer__ with 4+ years specializing in modern Android development and 10+ years in IT. Expert in building scalable, user-centric mobile applications using Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP)..*
 
 # Portfolio
+
+# MyBank App
+![mybank app image](mybank.jpg)
+
+This is a multiplatform app that runs on both iOS and Android.
+I built it as part of my learning journey, where I explored backend development using Kotlin and Spring Boot to create a simple banking REST API.
+Then, I developed a Kotlin Multiplatform (KMP) app that consumes this API, combining frontend and backend knowledge in a single project.
+
+Through this project, I significantly deepened my understanding of Kotlin, KMP, and RESTful API design.
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7324250505445036032/"> video</a>
+
+### Technology and Tools
+* **Kotlin** 
+* **MVI**
+* **Jetpac Compose**
+* **KMP**
+* **Ktor**
+<center>
+<a href="https://github.com/pgustavo73/MyBankKMP"><img src="Git.png"></a>
+</center>
+<hr>
 
 # Tic Tac Toe
 ![tic tac toe app image](tictoctoe.jpg)
