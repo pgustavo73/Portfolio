@@ -6,7 +6,7 @@
 ![mybank app image](mybank.jpg)
 
 This is a multiplatform app that runs on both iOS and Android.
-I built it as part of my learning journey, where I explored backend development using Kotlin and Spring Boot to create a simple banking REST API.
+I built it as part of my learning journey, where I explored backend development using Kotlin and Spring Boot to create a simple backend REST API.
 Then, I developed a Kotlin Multiplatform (KMP) app that consumes this API, combining frontend and backend knowledge in a single project.
 
 Through this project, I significantly deepened my understanding of Kotlin, KMP, and RESTful API design.
