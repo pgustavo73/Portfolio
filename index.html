@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paulo Gustavo — Android Developer</title>
+<meta name="description" content="Paulo Gustavo, Android Developer specializing in Kotlin, Jetpack Compose and Kotlin Multiplatform (KMP). Portfolio of Android apps and projects.">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Paulo Gustavo — Android Developer">
+<meta property="og:description" content="Android Developer specializing in Kotlin, Jetpack Compose and Kotlin Multiplatform (KMP).">
+<meta property="og:image" content="https://pgustavo73.github.io/Portfolio/profile.png">
+<meta property="og:url" content="https://pgustavo73.github.io/Portfolio/">
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="github.svg" type="image/svg+xml">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="bg-glow" aria-hidden="true"></div>
+
+<header class="nav" id="top">
+  <div class="nav-inner">
+    <a class="logo" href="#top">PG<span class="dot">.</span></a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="nav-links" id="navLinks">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="hero" id="about">
+    <div class="hero-text reveal">
+      <p class="eyebrow">Hi, I'm</p>
+      <h1>Paulo Gustavo</h1>
+      <h2 class="role">Android Developer</h2>
+      <p class="lede">
+        4+ years specializing in modern Android development, and 10+ years in IT overall.
+        I build scalable, user-centric mobile applications with <strong>Kotlin</strong>,
+        <strong>Jetpack Compose</strong>, and <strong>Kotlin Multiplatform (KMP)</strong>.
+      </p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#projects">View Projects</a>
+        <a class="btn btn-ghost" href="#contact">Get in Touch</a>
+      </div>
+      <div class="social-row">
+        <a href="https://www.linkedin.com/in/paulogustavo73/" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn"><img src="linkedin.svg" alt=""></a>
+        <a href="https://github.com/pgustavo73" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><img src="github.svg" alt=""></a>
+        <a href="https://wa.me/+5581988696763" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp"><img src="WhatsApp.svg" alt=""></a>
+        <a href="mailto:p_gustavo@outlook.com" aria-label="Email" title="Email"><img src="email.svg" alt=""></a>
+      </div>
+    </div>
+    <div class="hero-photo reveal">
+      <div class="photo-ring">
+        <img src="profile.png" alt="Photo of Paulo Gustavo">
+      </div>
+    </div>
+  </section>
+
+  <section class="skills" id="skills">
+    <h2 class="section-title reveal">Skills &amp; Tech Stack</h2>
+    <div class="skills-grid">
+
+      <div class="skill-group reveal">
+        <h3>Languages</h3>
+        <div class="tags">
+          <span class="tag">Kotlin</span>
+          <span class="tag">Java</span>
+        </div>
+      </div>
+
+      <div class="skill-group reveal">
+        <h3>UI</h3>
+        <div class="tags">
+          <span class="tag">Jetpack Compose</span>
+          <span class="tag">Material 3</span>
+          <span class="tag">XML Views</span>
+        </div>
+      </div>
+
+      <div class="skill-group reveal">
+        <h3>Architecture</h3>
+        <div class="tags">
+          <span class="tag">MVVM</span>
+          <span class="tag">MVI</span>
+        </div>
+      </div>
+
+      <div class="skill-group reveal">
+        <h3>Multiplatform &amp; Backend</h3>
+        <div class="tags">
+          <span class="tag">Kotlin Multiplatform</span>
+          <span class="tag">Ktor</span>
+          <span class="tag">Spring Boot</span>
+        </div>
+      </div>
+
+      <div class="skill-group reveal">
+        <h3>Async &amp; DI</h3>
+        <div class="tags">
+          <span class="tag">Coroutines</span>
+          <span class="tag">Flow</span>
+          <span class="tag">Hilt / Dagger</span>
+          <span class="tag">Koin</span>
+        </div>
+      </div>
+
+      <div class="skill-group reveal">
+        <h3>Networking &amp; Data</h3>
+        <div class="tags">
+          <span class="tag">Retrofit</span>
+          <span class="tag">Room</span>
+          <span class="tag">Firebase</span>
+          <span class="tag">WebView</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="projects" id="projects">
+    <h2 class="section-title reveal">Projects</h2>
+    <p class="section-sub reveal">A selection of Android apps I've designed, built, and shipped.</p>
+
+    <div class="project-grid">
+
+      <article class="card reveal">
+        <div class="card-img"><img src="mybank.jpg" alt="MyBank app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>MyBank App</h3>
+          <p>Multiplatform app for iOS and Android. Built a Kotlin/Spring Boot backend REST API, then a Kotlin Multiplatform (KMP) client that consumes it — combining frontend and backend in one project.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVI</span><span class="tag">Jetpack Compose</span><span class="tag">KMP</span><span class="tag">Ktor</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/MyBankKMP" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+            <a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7324250505445036032/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Demo</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="tictoctoe.jpg" alt="Tic Tac Toe app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>Tic Tac Toe</h3>
+          <p>The classic X's and O's game — take turns marking spaces, align three to win. Published on Google Play.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://play.google.com/store/apps/details?id=com.pgustavo.hashgame" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Google Play</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="sbcpa.jpg" alt="SBCPA app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>SBCPA</h3>
+          <p>WebView-based app for Sociedade Brasileira de Cães Pastores Alemães, bringing the full SBCPA website experience into a native app.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">WebView</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://play.google.com/store/apps/details?id=com.pgustavo.sbcpa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Google Play</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="lhs.jpg" alt="LHS Control app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>LHS Control</h3>
+          <p>Freelance project to manage travel logistics for drivers at a tourism company.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">Jetpack Compose</span><span class="tag">MVVM</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="chat.jpg" alt="MyChat app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>MyChat App</h3>
+          <p>Ported a Java chat-app tutorial to Kotlin and extended it: edit/delete messages, image sharing, pinch-to-zoom image viewing, and downloads.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVVM</span><span class="tag">Retrofit</span><span class="tag">Firebase</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/mychatapp" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="swt.jpg" alt="Star Wars Trivia app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>Star Wars Trivia App</h3>
+          <p>A Star Wars trivia game that mixes two passions — Android and Star Wars — consuming a self-hosted GitHub Pages trivia API.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVVM</span><span class="tag">Coroutines Flow</span><span class="tag">Hilt</span><span class="tag">Material 3</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/Star-Wars-Trivia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="marvel.jpg" alt="Marvel app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>Marvel App</h3>
+          <p>Browse Marvel characters from the Marvel API and mark favorites, with a UI dynamically themed from the device wallpaper (Material You).</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVVM</span><span class="tag">Retrofit</span><span class="tag">Hilt</span><span class="tag">Room</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/MarvelApp" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="weather.jpg" alt="Weather app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>Weather App</h3>
+          <p>Track current weather for up to 5 cities via the OpenWeather API — add and remove cities freely.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVVM</span><span class="tag">Retrofit</span><span class="tag">Koin</span><span class="tag">Room</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/MyWeatherApp" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="todo.jpg" alt="To Do app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>To Do App</h3>
+          <p>Schedule tasks and get a push notification reminder right when it's time to do them.</p>
+          <div class="tags">
+            <span class="tag">Kotlin</span><span class="tag">MVVM</span><span class="tag">Room</span><span class="tag">Push Notifications</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/ToDoApplication" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card reveal">
+        <div class="card-img"><img src="nnapp.jpg" alt="Nautico News app screenshot" loading="lazy"></div>
+        <div class="card-body">
+          <h3>Nautico News App</h3>
+          <p>My first native Android app in Java — a soccer news reader consuming a REST API hosted on GitHub Pages, with Material You dynamic color.</p>
+          <div class="tags">
+            <span class="tag">Java</span><span class="tag">MVVM</span><span class="tag">Retrofit</span><span class="tag">Room</span>
+          </div>
+          <div class="card-links">
+            <a class="link" href="https://github.com/pgustavo73/Soccer_New_app" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M7 17L17 7M17 7H9M17 7V15"/></svg> Code</a>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+</main>
+
+<footer class="contact" id="contact">
+  <h2 class="section-title reveal">Let's Talk</h2>
+  <p class="section-sub reveal">Open to new opportunities and interesting projects — reach out any time.</p>
+  <div class="contact-buttons reveal">
+    <a class="contact-btn" href="https://www.linkedin.com/in/paulogustavo73/" target="_blank" rel="noopener">
+      <img src="linkedin.svg" alt=""> LinkedIn
+    </a>
+    <a class="contact-btn" href="https://wa.me/+5581988696763" target="_blank" rel="noopener">
+      <img src="WhatsApp.svg" alt=""> WhatsApp
+    </a>
+    <a class="contact-btn" href="https://github.com/pgustavo73" target="_blank" rel="noopener">
+      <img src="github.svg" alt=""> GitHub
+    </a>
+    <a class="contact-btn" href="mailto:p_gustavo@outlook.com">
+      <img src="email.svg" alt=""> Email
+    </a>
+  </div>
+  <p class="footer-note">&copy; <span id="year"></span> Paulo Gustavo. Built with plain HTML, CSS &amp; JS.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
